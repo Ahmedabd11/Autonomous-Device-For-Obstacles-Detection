@@ -1,6 +1,6 @@
 # autonomous_device
 
-A new Flutter application.
+A new Flutter application that Basically Design and Develop on Android for live Streaming of Autonomous Device that recognize the obstacles and secondly for documentation purpose.
 
 ## Getting Started
 
